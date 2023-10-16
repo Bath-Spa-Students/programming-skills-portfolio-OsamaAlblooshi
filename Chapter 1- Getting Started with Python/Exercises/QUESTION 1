@@ -1,0 +1,5 @@
+#Q1 PRINT W X Y Z , EACH LETTER IN A SEPERATE LINE
+print("""W
+      X
+      Y
+      Z""")

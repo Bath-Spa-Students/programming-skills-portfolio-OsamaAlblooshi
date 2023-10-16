@@ -1,0 +1,9 @@
+# Given values
+base = 5
+height = 10
+
+# Calculate the area of the triangle
+area = (base * height) / 2
+
+# Print the result
+print("The area of the triangle is:", area)
