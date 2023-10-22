@@ -1,0 +1,5 @@
+#write a Python program to get the Python version you are using.
+import platform
+
+print("Python Version:")
+print(platform.python_version())

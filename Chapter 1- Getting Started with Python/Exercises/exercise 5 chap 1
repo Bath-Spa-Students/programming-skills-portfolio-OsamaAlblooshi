@@ -1,0 +1,11 @@
+#Write a Python program which accepts the radius of a circle from the user and compute the area.
+import math
+
+# Fixed radius
+radius = 4  # 4 cm
+
+# Calculate the area
+area = math.pi * (radius ** 2)
+
+# Display the result
+print("The area of the circle is:", area)
